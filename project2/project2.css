@@ -1,0 +1,171 @@
+*{
+    padding:0;
+    margin:0;
+}
+.container-fluid
+{
+    width:100%;
+    height: 1500px;
+    /* border-style: solid; */
+}
+.firstsection
+{
+    width: 100%;
+    height: 650px;
+    background-image: url("gamepad/banner-bg.png");
+    background-size: cover;
+    border-style: solid;
+}
+.menu
+{
+    width: 100%;
+    height: 70px;
+    /* border-style: solid; */
+    border-color: #599ee9;
+    /* padding-top: 20px; */
+    background-color: #fefeff;
+    margin-top: 43px;
+}
+.image
+{   margin-top: 8px;
+    float: left;
+    /* border-style: solid; */
+    margin-left: 10px;
+}
+.navbar
+{
+    width: 80%;
+    height: 40px;
+    border-style: solid;
+    float: right;
+    margin-right: 10px;
+    border-color: crimson;
+    margin-top: 20px;
+
+}
+ul li a
+{
+font-size: 18px;
+font-weight: 600;
+font-family:'poppins'serif;
+line-height: 30px;
+color:#24292f;
+padding-left: 15px;
+padding-right: 1px;
+text-decoration: none;
+/* padding-bottom: 15px; */
+/* margin-top: 10px; */
+}
+ul li 
+{
+display: inline;
+}
+ a:hover
+ {
+    color: blue;
+
+ }
+ .gamepad
+ {
+    width: 100%;
+    height: 535px;
+    border-style:  solid;
+    border-color: chartreuse;
+ }
+ .text
+ {
+    width: 45%;
+    height: 500px;
+    border-style: solid;
+    margin-left: 50px;
+    float: left;
+    margin-top: 30px;
+ }
+ .text1
+ {
+    width: 70%;
+    height: 57px;
+    text-align: center;
+    float: left;
+    margin-top: 60px;
+    font-size: 50px;
+    color: #fefeff;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: 'poppins';
+    /* padding-top: 65px; */
+    /* padding-left: 30px; */
+    border-style: solid;
+ }
+ .text2
+ { 
+    border-style: solid;
+    width:93%;
+    height: 72px;
+    float: left;
+    font-size: 70px;
+    color: #599ee9;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 80px;
+    font-family: 'poppins',serif;
+    margin-top: 8px;
+    /* margin-left: 15px; */
+ }
+ .text3
+ {
+    width:95%;
+    height:120px;
+    float: left;
+    font-size: 17px;
+    color: #fefeff;
+    font-weight: 500;
+    font-family: 'poppins',serif;
+    word-spacing: 10px;
+    line-height: 29px;
+    border-style: solid;
+    margin-top: 50px;
+ }
+ .text4
+ {
+  width: 25%;
+  height: 35px;
+  border-style: solid;
+  float: left; 
+  /* margin-left: 25px; */
+  margin-top: 40px;
+  border-left: 10px solid #599ee9;
+    border-radius: 30px;
+    border-right: 10px solid #599ee9;
+    border-top: 4px solid #599ee9;
+    border-bottom: 4px solid #599ee9;
+    text-align: center;
+    background-color: #fcfcfd;
+    color: #191919;
+    font-size: 18px;
+    font-weight: 400;
+    /* padding-top: px; */
+ }
+ /* .l
+ {
+   float: left;
+ }
+ .r{
+    float: right;
+ } */
+ .image2
+ {
+    width: 35%;
+    height:140px;
+   margin-right: 100px;
+    float: right;
+    margin-top: 100px;
+ }
+ /* .gamepad1
+ {
+   width: 100%;
+   height: 500px;
+   border-style:  solid;
+   border-color: chartreuse;
+   /* background-color: aqua; */
+ 
